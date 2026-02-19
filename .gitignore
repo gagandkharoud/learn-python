@@ -7,6 +7,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Python
+__pycache__/
+.venv/
+.env
+
+# JavaScript / React
+node_modules/
+dist/
+.DS_Store
 node_modules
 dist
 dist-ssr
